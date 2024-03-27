@@ -24,7 +24,7 @@ export default async function RootLayout({
       <body>
         <header>
           <nav className="nav container">
-            <h1 className="text-display-3">KindeAuth</h1>
+            <h1 className="text-display-3">Bigger3142</h1>
             <div>
               {!(await isAuthenticated()) ? (
                 <>
